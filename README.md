@@ -6,8 +6,10 @@
 
   
 **Lab2**  
-- Lab2_0 is completed.  
+- Lab2_0 is added.  
   
 **Lab3**  
 - Lab3_1 is added.  
+- Lab3_2 is added.  
+  
 
