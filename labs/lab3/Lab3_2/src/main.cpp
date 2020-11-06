@@ -2,7 +2,7 @@
 
 const int pin = 14;
 
-bool state = false;
+volatile bool state = false;
 int counter = 0;
 hw_timer_t * timer = NULL;
 portMUX_TYPE timerMux = portMUX_INITIALIZER_UNLOCKED;
