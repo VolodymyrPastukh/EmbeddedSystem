@@ -20,6 +20,9 @@
 
 **Lab5**  
 - Lab5_0 is added.
+> [passed]  
+
+# Result 30points)
   
   
 
